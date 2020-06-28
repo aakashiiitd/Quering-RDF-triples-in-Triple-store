@@ -1,0 +1,18 @@
+@prefix dash: <http://datashapes.org/dash#> .
+@prefix rdf: <https://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <https://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <https://www.w3.org/ns/shacl#> .
+@prefix xsd: <https://www.w3.org/2001/XMLSchema#> .
+@prefix sweb: <http://www.iiitd.ac.in/course/sweb/> .
+
+sweb:SecondShape
+	a sh:NodeShape ;
+	sh:targetClass sweb:Facility;
+	sh:property [
+		sh:path sweb:hasScore ;
+		sh:lessThan 100 ;
+		sh:message "Not of Numeric Type"@en ;
+	];
+	sh:closed true ;
+	sh:ignoredProperties ( rdf:type ) .

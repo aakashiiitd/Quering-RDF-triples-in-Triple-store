@@ -1,0 +1,9 @@
+PREFIX : <http://www.iiitd.ac.in/course/sweb/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+ASK
+	{ ?a rdfs:domain ?b .
+	  ?a rdf:type rdf:Property .
+	  ?s ?a ?c .
+	  ?s rdf:type ?b}

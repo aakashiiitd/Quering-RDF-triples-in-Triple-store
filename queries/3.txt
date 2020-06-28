@@ -1,0 +1,9 @@
+PREFIX : <http://www.iiitd.ac.in/course/sweb/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?state ?city ?zip
+WHERE {
+	?facility :hasCity ?city .
+	?state :contains ?city .
+	?zip :ofCity ?city .
+}
+LIMIT 100

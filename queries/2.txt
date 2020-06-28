@@ -1,0 +1,7 @@
+PREFIX : <http://www.iiitd.ac.in/course/sweb/>
+SELECT ?facility ?program ?status
+WHERE {
+	?facility :hasProgram ?program .
+	?program :hasStatus ?status .
+}
+LIMIT 100

@@ -1,0 +1,54 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+| facility                                 | service | program                                  | owner                                       | gradeWHERE |
+============================================================================================================================================================
+| :ANTOJITOSYGARNACHERIADONAROSITA         | :1      | :ANTOJITOSYGARNACHERIADONAROSITA         | :MARIOANDRESLOPEZ                           |            |
+| :ANTOJITOSYGARNACHERIADONAROSITA         | :1      | :ANTOJITOSYGARNACHERIADONAROSITA         | :MARIOANDRESLOPEZ                           |            |
+| :ANTOJITOSYGARNACHERIADONAROSITA         | :1      | :ANTOJITOSYGARNACHERIADONAROSITA         | :MARIOANDRESLOPEZ                           |            |
+| :NEWFLAVORS                              | :1      | :NEWFLAVORS                              | :NEWFLAVORSINC                              |            |
+| :NEWFLAVORS                              | :1      | :NEWFLAVORS                              | :NEWFLAVORSINC                              |            |
+| :SDCOFFEESHOP                            | :401    | :SDCOFFEESHOP                            | :LYSANDYHONG                                |            |
+| :SDCOFFEESHOP                            | :401    | :SDCOFFEESHOP                            | :LYSANDYHONG                                |            |
+| :SDCOFFEESHOP                            | :401    | :SDCOFFEESHOP                            | :XIAOMINGHE                                 |            |
+| :SDCOFFEESHOP                            | :401    | :SDCOFFEESHOP                            | :XIAOMINGHE                                 |            |
+| :CHINAWOK                                | :1      | :CHINAWOK                                | :LINSANDSBUSINESSINVESTMENTG                |            |
+| :CHINAWOK                                | :1      | :CHINAWOK                                | :LINSANDSBUSINESSINVESTMENTG                |            |
+| :YURISAUTHENTICTACOSANDMEXICANRESTAURANT | :1      | :YURISAUTHENTICTACOSANDMEXICANRESTAURANT | :YURISAUTHENTICTACOSANDMEXICANRESTAURANTINC |            |
+| :MIPOBLANITA                             | :1      | :MIPOBLANITA                             | :MEDINAPAZOGPATRICIA                        |            |
+| :MIPOBLANITA                             | :1      | :MIPOBLANITA                             | :MEDINAPAZOGPATRICIA                        |            |
+| :VIPCHINESERESTAURANT                    | :401    | :VIPCHINESERESTAURANT                    | :TUNGJIACHING                               |            |
+| :VIPCHINESERESTAURANT                    | :401    | :VIPCHINESERESTAURANT                    | :TUNGJIACHING                               |            |
+| :VIPCHINESERESTAURANT                    | :401    | :VIPCHINESERESTAURANT                    | :TUNGJIACHING                               |            |
+| :VIPCHINESERESTAURANT                    | :401    | :VIPCHINESERESTAURANT                    | :CHUNYINTUNG                                |            |
+| :VIPCHINESERESTAURANT                    | :401    | :VIPCHINESERESTAURANT                    | :CHUNYINTUNG                                |            |
+| :VIPCHINESERESTAURANT                    | :401    | :VIPCHINESERESTAURANT                    | :CHUNYINTUNG                                |            |
+| :SDCOFFEESHOP                            | :1      | :SDCOFFEESHOP                            | :LYSANDYHONG                                |            |
+| :SDCOFFEESHOP                            | :1      | :SDCOFFEESHOP                            | :LYSANDYHONG                                |            |
+| :SDCOFFEESHOP                            | :1      | :SDCOFFEESHOP                            | :XIAOMINGHE                                 |            |
+| :SDCOFFEESHOP                            | :1      | :SDCOFFEESHOP                            | :XIAOMINGHE                                 |            |
+| :THREEBEARSBARBQ                         | :1      | :THREEBEARSBARBQ                         | :ADAMSHERMANL                               |            |
+| :STODOMINGOBAKERY                        | :1      | :STODOMINGOBAKERY                        | :HERNANDEZENRIQUE                           |            |
+| :STODOMINGOBAKERY                        | :1      | :STODOMINGOBAKERY                        | :HERNANDEZENRIQUE                           |            |
+| :STODOMINGOBAKERY                        | :1      | :STODOMINGOBAKERY                        | :HERNANDEZENRIQUE                           |            |
+| :TATSURAMEN                              | :1      | :TATSURAMEN                              | :NADEAUTHOMAS                               |            |
+| :TATSURAMEN                              | :1      | :TATSURAMEN                              | :NADEAUTHOMAS                               |            |
+| :TATSURAMEN                              | :1      | :TATSURAMEN                              | :NADEAUTHOMAS                               |            |
+| :TATSURAMEN                              | :1      | :TATSURAMEN                              | :TATSURAMEN                                 |            |
+| :TATSURAMEN                              | :1      | :TATSURAMEN                              | :TATSURAMEN                                 |            |
+| :TATSURAMEN                              | :1      | :TATSURAMEN                              | :TATSURAMEN                                 |            |
+| :NEWFLAVORS                              | :401    | :NEWFLAVORS                              | :NEWFLAVORSINC                              |            |
+| :NEWFLAVORS                              | :401    | :NEWFLAVORS                              | :NEWFLAVORSINC                              |            |
+| :VIPCHINESERESTAURANT                    | :1      | :VIPCHINESERESTAURANT                    | :TUNGJIACHING                               |            |
+| :VIPCHINESERESTAURANT                    | :1      | :VIPCHINESERESTAURANT                    | :TUNGJIACHING                               |            |
+| :VIPCHINESERESTAURANT                    | :1      | :VIPCHINESERESTAURANT                    | :TUNGJIACHING                               |            |
+| :VIPCHINESERESTAURANT                    | :1      | :VIPCHINESERESTAURANT                    | :CHUNYINTUNG                                |            |
+| :VIPCHINESERESTAURANT                    | :1      | :VIPCHINESERESTAURANT                    | :CHUNYINTUNG                                |            |
+| :VIPCHINESERESTAURANT                    | :1      | :VIPCHINESERESTAURANT                    | :CHUNYINTUNG                                |            |
+| :TATSURAMEN                              | :401    | :TATSURAMEN                              | :NADEAUTHOMAS                               |            |
+| :TATSURAMEN                              | :401    | :TATSURAMEN                              | :NADEAUTHOMAS                               |            |
+| :TATSURAMEN                              | :401    | :TATSURAMEN                              | :NADEAUTHOMAS                               |            |
+| :TATSURAMEN                              | :401    | :TATSURAMEN                              | :TATSURAMEN                                 |            |
+| :TATSURAMEN                              | :401    | :TATSURAMEN                              | :TATSURAMEN                                 |            |
+| :TATSURAMEN                              | :401    | :TATSURAMEN                              | :TATSURAMEN                                 |            |
+| :CHINAWOK                                | :401    | :CHINAWOK                                | :LINSANDSBUSINESSINVESTMENTG                |            |
+| :CHINAWOK                                | :401    | :CHINAWOK                                | :LINSANDSBUSINESSINVESTMENTG                |            |
+------------------------------------------------------------------------------------------------------------------------------------------------------------

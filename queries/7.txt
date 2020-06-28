@@ -1,0 +1,9 @@
+PREFIX : <http://www.iiitd.ac.in/course/sweb/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+ASK
+	{ :hasState rdfs:domain :Facility .
+	  :hasState rdf:type rdf:Property .
+	  :HABITATCOFFEESHOP :hasState :CA .
+	  :HABITATCOFFEESHOP rdf:type :Facility}

@@ -1,0 +1,10 @@
+PREFIX : <http://www.iiitd.ac.in/course/sweb/> 
+SELECT ?facility ?service ?program ?owner ?grade
+WHERE { 
+	?facility :hasService ?service . 
+	?facility :hasProgram ?program . 
+	?facility :hasOwner ?owner . 
+	?facility :hasGrade ?grade . 
+  	?facility :hasScore ?score .
+	FILTER (?score < 70)
+}

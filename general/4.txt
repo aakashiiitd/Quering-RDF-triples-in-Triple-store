@@ -1,0 +1,13 @@
+PREFIX : <http://www.iiitd.ac.in/course/sweb/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?s1 ?s2
+WHERE {
+	?s1 ?p1 ?o1 .
+	?s1 ?p2 ?o2 .
+	?s1 ?p3 ?o3 .
+	?s2 ?p4 ?o3 .
+	?s2 ?p5 ?o4 .
+	?s2 ?p6 ?o5 .
+	FILTER (?s1!=?s2 && ?p1!=?p2 && ?p1!=?p3 && ?p2!=?p3 && ?p4!=?p5 && ?p4!=?p6 && ?p5!=?p6)
+}
+LIMIT 100
